@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+}
+.App {
+  margin: auto;
+  min-height: 100%;
+  text-align: center;
+}
+
+.btn {
+  margin: 30px;
+}
+
+.table {
+  th {
+    text-align: center;
+    padding: 5px;
+  }
+}
+
+.forecast {
+  margin-top: 50px;
+}
+
+.search { 
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
